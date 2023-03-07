@@ -1,0 +1,1 @@
+{"uuid":"f8ceb216-466c-4a61-b8df-e041bb854a2a","name":"textTest()","children":["17f2285d-b5cd-4b18-82e8-9174adf715b1"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1655492848513,"stop":1655492853084}],"afters":[],"links":[],"start":1655492848347,"stop":1655492858762}

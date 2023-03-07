@@ -1,0 +1,1 @@
+{"uuid":"a118a08e-50f9-4f40-96f7-d88b9e7511d2","name":"validLogin()","children":["96ba4bd0-a84d-4ee9-a68b-7c4a76e87176"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1655196489083,"stop":1655196492354}],"afters":[],"links":[],"start":1655196488945,"stop":1655196498384}

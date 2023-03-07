@@ -1,0 +1,1 @@
+{"uuid":"4f75a4de-8a9e-40fb-8293-bade1f406db1","name":"DeleteProfile()","children":["a55511d0-cb09-4597-8847-e4fa85d7eb30"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1655741571363,"stop":1655741574696}],"afters":[],"links":[],"start":1655741571236,"stop":1655741578658}

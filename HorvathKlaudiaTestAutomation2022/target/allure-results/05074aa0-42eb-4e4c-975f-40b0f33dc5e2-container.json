@@ -1,0 +1,1 @@
+{"uuid":"05074aa0-42eb-4e4c-975f-40b0f33dc5e2","name":"acceptTermsAndConditions()","children":["738662c9-195a-44c8-a36d-89d45895e82c"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1655480064658,"stop":1655480071026}],"afters":[],"links":[],"start":1655480064646,"stop":1655480072888}
